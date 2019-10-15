@@ -10,10 +10,11 @@ body{
 border-bottom-style: solid;
 border-bottom-width: 0.5px;
 }
-.border-left{
+.border-left-style{
     border-left-style: solid;
     border-left-width: 0.5px;
     border-left-color: black;
+    height: 100%;
     }
 .div-50{
     border-bottom-style: solid;
@@ -45,3 +46,21 @@ border-bottom-width: 0.5px;
     border-bottom-width: 0.5px;
     height: 16%;
 }
+.p-style{
+    font-size: 8pt;
+    float: right;
+}
+.border-top-style{
+    border-top-style: solid;
+    border-top-width: 0.5px;
+    }
+    .header-style{
+        font-size: 10pt;
+    }
+    .img-style{
+        width: 80px;
+        height: 80px;
+    }
+    .header-style1{
+        font-size: 8pt;
+    }
